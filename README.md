@@ -17,5 +17,5 @@ This project is a guided exercise from the Scrimba Front-End Developer Program, 
 Clone the repository and open the `index.html` file to see the birthday greetings in action.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://gentle-profiterole-e03cff.netlify.app/)
 
